@@ -27,22 +27,22 @@ Before starting the deliverables list, it is important to describe the constrain
 
 Without further ado, here follows the list of deliverables:
 
-1 Create a human lower body rig (legs and hips).
-2 Convert the rig to an IK Rig.
-3 Create a basic walk cycle for the IK rig. (This is the minimum number of deliverables)
-4 parametrise the walk cycle
-5 make 3 variants to the walk cycle.
-6 create full body rig.
-7 convert the full body rig to a full body IK rig.
-8 implement the walk cycle to the rest of the body.
-9 parametrise the walk cycle.
-10 create 3 variants of the first walk cycle (This would be the ideal)
-11 implement prop interaction rules.
-12 implement the rig on a character.
-13 implement the rig on 2 different characters.
-14 implement the same animation on these 2 different characters
-15 make the characters interact with the same prop using the same animation.
-16 create 2 extra animations that can be used across characters.
+1. Create a human lower body rig (legs and hips).
+2. Convert the rig to an IK Rig.
+3. Create a basic walk cycle for the IK rig. (This is the minimum number of deliverables)
+4. parametrise the walk cycle
+5. make 3 variants to the walk cycle.
+6. create full body rig.
+7. convert the full body rig to a full body IK rig.
+8. implement the walk cycle to the rest of the body.
+9. parametrise the walk cycle.
+10. create 3 variants of the first walk cycle (This would be the ideal)
+11. implement prop interaction rules.
+12. implement the rig on a character.
+13. implement the rig on 2 different characters.
+14. implement the same animation on these 2 different characters
+15. make the characters interact with the same prop using the same animation.
+16. create 2 extra animations that can be used across characters.
 
 ### further clarification on deliverables:
 
