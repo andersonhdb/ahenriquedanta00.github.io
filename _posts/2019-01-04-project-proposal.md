@@ -48,3 +48,9 @@ Without further ado, here follows the list of deliverables:
 
 The lower body rig will be composed of 11 bones: 4 for each leg (in which 2 will be dedicated to each foot, to allow for toe movement) and 1 for the hip.
 The walk cycle animation data will have to be created and stored in way that it can translate to IK movement and be “Rig independent”.
+
+## Sources:
+
+The main motivator for this little projec: [**IK Rig: Procedural Pose Animation** presentation by Ubisoft's Alexander Bereznyak at GDC 2016](https://www.youtube.com/watch?v=KLjTU0yKS00&t=342s).
+Unity tutorial on its Avatar component: [**Humanoid Avatars - Unity Official Tutorials**](https://www.youtube.com/watch?v=pbaOGZzth6g)
+The demonstration of the development process for a character that has been procedurally animated: [**Animation Bootcamp: An Indie Approach to Procedural Animation** presentation by indie developer David Rosen at GDC 2014](https://www.youtube.com/watch?v=LNidsMesxSE&t=384s)
