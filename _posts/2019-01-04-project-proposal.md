@@ -47,6 +47,7 @@ Without further ado, here follows the list of deliverables:
 ### further clarification on deliverables:
 
 The lower body rig will be composed of 11 bones: 4 for each leg (in which 2 will be dedicated to each foot, to allow for toe movement) and 1 for the hip.
+
 The walk cycle animation data will have to be created and stored in way that it can translate to IK movement and be “Rig independent”.
 
 ## Sources:
