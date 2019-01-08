@@ -17,7 +17,7 @@ There are some mottos that float around in the world of programming: "**D**on't 
 
 One of the interesting things that is going on in the game industry right now is to apply the concept of reusability to the animation development pipeline. This is a big deal because historically the entertainment industry Has used two methods to animate anything: Motion Capture and "manufactured" animation. In the beginning each animation would be developed for each individual asset in the game, then methods were developed for animation sharing between similar assets, but these methods created constraints to level design, character design and costs in motion capture sessions. Right now, Ubisoft is delving into the concept of IK rigs. [This video](https://www.youtube.com/watch?v=KLjTU0yKS00&t=342s) addresses many of the issues of the current animation technology and what is being done to address this issues by a specific Ubisoft team member.
 
-Developing IK rigs is not only an excellent exercise in understanding the technical aspects of game character animation, but also a way of developing systems that allows developers to utilize and customize animations to suit different characters.
+Developing IK rigs is not only an excellent exercise in understanding the technical aspects of game character animation, but also a way of developing systems that allows developers to utilize and customize the same animations to suit different characters, creating a collaborative environment that allows for sharing animations among different meshes within certain restrictions (I find it conceptually hard to share the animation of a human and an octopus, though animators and technical artists are known to be very creative...).
 
 ## Deliverables:
 
