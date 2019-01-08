@@ -53,6 +53,5 @@ The walk cycle animation data will have to be created and stored in way that it 
 
 - The main motivator for this little projec: [**IK Rig: Procedural Pose Animation** presentation by Ubisoft's Alexander Bereznyak at GDC 2016](https://www.youtube.com/watch?v=KLjTU0yKS00&t=342s).
 - Unity tutorial on its Avatar component: [**Humanoid Avatars - Unity Official Tutorials**](https://www.youtube.com/watch?v=pbaOGZzth6g)
-- Another Unity tutorial on avatar components and animation sharing: [**Character animation setup tutorial - Live Training Nov. 11, 2015
-**](https://www.youtube.com/watch?v=wf6vtCgLk6w&t=3643s)
+- Another Unity tutorial on avatar components and animation sharing: [**Character animation setup tutorial - Live Training Nov. 11, 2015**](https://www.youtube.com/watch?v=wf6vtCgLk6w&t=3643s)
 - The demonstration of the development process for a character that has been procedurally animated: [**Animation Bootcamp: An Indie Approach to Procedural Animation** presentation by indie developer David Rosen at GDC 2014](https://www.youtube.com/watch?v=LNidsMesxSE&t=384s)
