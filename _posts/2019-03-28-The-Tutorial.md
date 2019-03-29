@@ -1,5 +1,5 @@
 # Command Pattern - Input manager Tutorial:
-### A practical approach to the flyweight design pattern.
+### A practical approach to the Command design pattern.
 
 *The golden rule of problem solving is that a hammer is not a screwdrive.* 
 
