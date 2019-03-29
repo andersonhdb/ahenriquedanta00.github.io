@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>Babylon Template</title>
+
+        <style>
+            html, body {
+                overflow: hidden;
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+
+            #babCanvas {
+                width: 100%;
+                height: 100%;
+                touch-action: none;
+            }
+        </style>
+
+        <script src="https://cdn.babylonjs.com/babylon.js"></script>
+        <script src="https://preview.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
+        <script src="https://code.jquery.com/pep/0.4.3/pep.js"></script>
+    </head>
+
+   <body>
+
+    <canvas id="babCanvas" touch-action="none"></canvas> <!--touch-action="none" for best results from PEP-->
+
+    <!-- Lets set up our variable -->
+    <script>
+        var canvas = document.getElementById("babCanvas"); // Get the canvas element 
+        var engine = new BABYLON.Engine(canvas, true); // Generate the BABYLON 3D engine
+        var h = [];
+    </script>
+    <!--All the scripts will go here-->
+    <!-- The first thbing is to attach our definitions script. so we can use them when creating our scene-->
+    <script src = "Babylon/scripts/Helicopter_Definition.js"></script>
+    <script src = "Babylon/scripts/Input_Manager.js"></script>
+    <script src= "Babylon/scripts/Commands.js"></script>
+
+    <script src="Babylon/Scene.js"></script>
+
+   </body>
+
+</html>
