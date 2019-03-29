@@ -3,6 +3,8 @@
 
 *The golden rule of problem solving is that a hammer is not a screwdrive.* 
 
+*Disclaimer: this tutorial originally was supposed to be a flyweight application tutorial. But due to issues with Babylon.js documentation and implementation, the project began to become way more complex than an entr tutorial is supposed to be. Therefore a shift on the tutorial content was called for. Turned out that this application is more appropriate to a begginer in Babylon*
+
 Hello, this is my first tutorial. Ever. So, any comments and constructive feedback on it will be well appreciated. I have created an interactive summary, so you'll might have an easier time navigating this document. 
 Also, if there any request on a tutorial implementation of a specific design pattern, I'm all ears (actually no, I also have a pair of hand... My Lovecraftian anatomy is kind of weird...).
 
