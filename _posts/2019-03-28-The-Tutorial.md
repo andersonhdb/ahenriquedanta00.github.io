@@ -764,22 +764,30 @@ This is my compilation of source for putting this tutorial together:
 
 #### Design Patterns:
 The Gang of four: [Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series)](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+
 Bob Nystrom's: [Game Programming Patterns](http://www.gameprogrammingpatterns.com/)
 
 #### Babylon references:
 [Babylon.js base application](https://doc.babylonjs.com/babylon101/first)
+
 Step 3: [Cameras](https://doc.babylonjs.com/babylon101/cameras)
+
 Step 3: [Lights](https://doc.babylonjs.com/babylon101/lights)
+
 Step 3: [Shapes](https://doc.babylonjs.com/how_to/set_shapes)
+
 Step 3: [Material](https://doc.babylonjs.com/babylon101/materials)
 
 Step 5: [Postion, Rotation and Scale](https://doc.babylonjs.com/babylon101/position)
 
 Step 6: [ActionManager](https://doc.babylonjs.com/how_to/how_to_use_actions#triggers)
+
 Step 6: [ActionManager Documentation](https://doc.babylonjs.com/api/classes/babylon.actionmanager)
+
 Step 6: Extra [ActionManager example](https://www.babylonjs-playground.com/#Y1W3F9)
+
 Step 6: [Rotations and translations](https://doc.babylonjs.com/how_to/rotate)
+
 Step 6: [Difference Between engine.getDeltaTime() and scene.getAnimationRatio](https://forum.babylonjs.com/t/whats-the-difference-between-engine-getdeltatime-and-scene-getanimationratio/61)
+
 Step 6: [Best way to get time between frames](http://www.html5gamedevs.com/topic/38996-recommended-way-to-get-time-between-last-frames-in-observables-ie-deltatime/)
-
-
