@@ -1,0 +1,26 @@
+# A Proposal on a tutorial on implementing the Flyweight Design Pattern.
+
+## Motivation:
+
+Awareness of design patterns is unfortunately low in the development market. On top of that even though Babylon.js has an active community and documentation, actually learning how to create something more interactive than a camera that moves around an object is challenging. There is a learning curve there and it can be steep. Therefore, creating a tutorial that eases the learning of Babylon.js while raising awareness about design patterns sound like a good challenge.
+
+On a personal side, developing a small project on an engine I have never tried yet is important to get me outside my comfort zone. Also, it is important to improve my growth, to allow me to try and teach something I just learned.
+
+### Why the flyweight Pattern?
+
+Well. The Flyweight pattern is not very well known, and it is an excelled way to optimize asset usage. It is a low-level implementation that frees memory usage and optimize your implementation. Specially an application uses a lot o visual asset (such as high fidelity games).
+
+## The plan:
+
+My plan is to develop a Babylon.js application where the flyweight pattern optimizes the resource usage: I will create a forest. One with blender assets. The number of repeated trees in different spaces and rotations is the one example where flyweight shines (This example of the flyweight is provided by Bob Nystrom in his book: Game Design Patterns, as part of the [references](#references)).
+
+After creating the project, I'll go through each step of the implementation. How to import a blender file inside a Babylon.js project, how to create a single tree, how to create multiple trees, checking how heavy this implementation makes the application. Then We go through the pattern implementation. and close with a challenge on how to implement first-person movement through the forest.
+
+## References:
+
+Design Patterns:
+Bob Nystrom's [Game Programming Patterns](http://www.gameprogrammingpatterns.com/)
+
+Babylon setup:
+[Babylon.js first steps](#https://doc.babylonjs.com/babylon101/first)
+[Babylon.js .obj loader](#https://doc.babylonjs.com/how_to/obj)
