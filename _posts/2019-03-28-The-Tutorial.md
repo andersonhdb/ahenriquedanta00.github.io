@@ -15,9 +15,7 @@ Also, if there any request on a tutorial implementation of a specific design pat
 4. [The Problem](#the-problem)
 5. [The Solution](#the-solution)
 6. [The Implementation](#the-implementation)
-7. When to Use It
-8. When NOT to Use It.
-9. References.
+7. [References](#references)
 
 ## Motivation:
 
